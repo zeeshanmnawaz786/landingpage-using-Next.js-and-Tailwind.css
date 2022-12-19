@@ -13,13 +13,13 @@ export default function Home() {
     <>
       <Navbar />
       <HeroSection />
-      {/* <StarSection /> */}
-      {/* <TripSection1 /> */}
-      {/* <TripSection2 /> */}
-      {/* <TripSection3 /> */}
-      {/* <VideoCom /> */}
-      {/* <Footer/> */}
-      {/* <FooterBottom /> */}
+      <StarSection />
+      <TripSection1 />
+      <TripSection2 />
+      <TripSection3 />
+      <VideoCom />
+      <Footer/>
+      <FooterBottom />
     </>
   );
 }
