@@ -9,7 +9,7 @@ export function TripSection3() {
       <h1 className="p-3 pl-0 pb-0 text-2xl sm:text-4xl xl:text-5xl font-bold">
           Improve your travel experience.
       </h1>
-      <p className=" my-10 mb-10 xl:text-2xl font-lighter">
+      <p className=" my-10 mb-10 xl:text-2xl  font-light text-sm md:text-xl sm:font-normal ">
 
         Create custom landing pages with Omega that convert more
         visitors than any website. With lots of unique blocks,

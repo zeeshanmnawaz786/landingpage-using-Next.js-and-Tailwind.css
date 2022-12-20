@@ -4,7 +4,7 @@ import React from 'react'
 
 function StarSection() {
   return (
-    <div className='bg-blue-700 text-white text-lg md:flex justify-center p-2 xl:text-xl'>
+    <div className='bg-blue-700 text-white md:flex justify-center pt-1 pb-1 xl:text-xl  font-lighter text-sm md:text-lg'>
         <div className='m-16 '>
             <div >
                 <Image src='/assets/Images/fiveStar.png'

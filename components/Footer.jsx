@@ -8,7 +8,7 @@ function Footer() {
     <h1 className="p-3 pl-0 pb-0 text-2xl sm:text-4xl xl:text-5xl font-bold">
         Get the app now
       </h1>  
-      <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl md:ml-20 md:mr-20">
+      <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl md:ml-20 md:mr-20  font-light text-sm md:text-xl sm:font-normal ">
 
         Create custom landing pages with Omega that Converts
         more visitors than any website. 

@@ -20,7 +20,7 @@ export function HeroSection() {
           Travel the World & 
           meet new friends
         </h1>
-        <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl ">
+        <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl  font-light text-sm sm:text-lg sm:font-normal">
           Create custom landing pages with Omega that convert more
           visitors than any website. With lots of unique blocks,
           you can easilybuild a pagewithout coding.
@@ -42,13 +42,16 @@ export function HeroSection() {
               />
             </svg>
           </div>
+          <div className="pr-10">
           <input
             type="text"
-            className="h-10 xl:h-14 pl-10 w-72 md:w-96 lg:w-80 xl:w-96 rounded-lg z-0 focus:shadow focus:outline-none border border-gray-300"
+            className="h-8 sm:h-10 xl:h-14 text-xs sm:text-lg pl-10 w-52 sm:w-60 md:w-96 lg:w-80 xl:w-96 rounded-lg z-0 focus:shadow focus:outline-none border border-gray-300"
             placeholder="Email Address"
           />
-          <div className="absolute top-1 right-5 sm:right-0 md:right-52 lg:right-16 xl:right-40">
+          <div className="absolute top-0.5 sm:top-1 -right-1 sm:right-9 md:right-52 lg:right-16 xl:right-40">
+
             <Button text="I want to Join" />
+          </div>
           </div>
         </div>
       </div>

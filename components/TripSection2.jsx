@@ -17,10 +17,10 @@ export function TripSection2() {
 
       <div className=" m-10 sm:ml-10 md:mr-4 text-left xl:mr-20 md:mt-20">
         <h1 className="p-3 pl-0 pb-0 text-2xl sm:text-4xl xl:text-5xl font-bold">
-          See the World & 
-          Spend less always
+          See the World & Spend less always
         </h1>
-        <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl ">
+        <p className=" my-5 p-3 pl-0 lg:mt-10 lg:mb-10 xl:text-2xl  font-light text-sm md:text-xl sm:font-normal ">
+          
           Create custom landing pages with Omega that convert more
           visitors than any website. With lots of unique blocks,
           you can easilybuild a pagewithout coding.
