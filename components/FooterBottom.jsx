@@ -9,7 +9,7 @@ function FooterBottom() {
                 Omega
             </p>
             <p className='mx-10 mt-2 md:mt-0 '>
-             2022 Zeeshan Nawaz 
+             2023 Omega
             </p>
         </div>
         <div>
